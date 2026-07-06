@@ -3,7 +3,6 @@
 A simple console-based Billing System developed in C++ that generates customer invoices with GST and discount calculation.
 
 ## Features
-
 - Add multiple items
 - GST (18%) calculation
 - Discount calculation
@@ -11,7 +10,6 @@ A simple console-based Billing System developed in C++ that generates customer i
 - Amount in words
 
 ## Technologies
-
 - C++
 - Code::Blocks
 
