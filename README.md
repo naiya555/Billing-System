@@ -17,7 +17,7 @@ A simple console-based Billing System developed in C++ that generates customer i
 
 ## Sample Output
 
-![Output](screenshots/output.jpg)
+![Output](screenshots/output.jpeg)
 
 ## Author
 
