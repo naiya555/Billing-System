@@ -12,7 +12,7 @@ A simple console-based Billing System developed in C++ that generates customer i
 ## Technologies
 - C++
 - Code::Blocks
-
+  
 ## Sample Output
 
 ![Output](screenshots/output.jpeg)
