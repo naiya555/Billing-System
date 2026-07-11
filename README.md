@@ -19,4 +19,4 @@ A simple console-based Billing System developed in C++ that generates customer i
 
 ## Author
 
-**Naiya Sharma**
+**Naiya Sharma** 
