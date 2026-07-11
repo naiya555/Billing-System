@@ -20,3 +20,5 @@ A simple console-based Billing System developed in C++ that generates customer i
 ## Author
 
 **Naiya Sharma** 
+
+⭐ If you like this project, consider giving it a Star on GitHub. GitHub: naiya555
