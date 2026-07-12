@@ -8,6 +8,7 @@ A simple console-based Billing System developed in C++ that generates customer i
 - Discount calculation
 - Invoice generation
 - Amount in words
+- Invoice generation in .txt
 
 ## Technologies
 - C++
