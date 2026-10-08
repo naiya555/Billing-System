@@ -18,6 +18,8 @@ A simple console-based Billing System developed in C++ that generates customer i
 
 ![Output](screenshots/output.jpeg)
 
+##project status
+this project is currently maintained and upadated through github.
 ## Author
 
 **Naiya Sharma** 
